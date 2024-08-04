@@ -4,8 +4,7 @@
 iae gaseador deve ser bom estar no curso apos gasear aula ne
 
  /\                                                                                                                                                                                           
-|  |                                                                                                                                                                                          
-|  |____                                                                                                                                                                                      
-|_______/                                                                                                                                                                                     
-|_______/                                                                                                                                                                                     
-|_______/
+|-|                                                                                                                                                                                           
+|-|____                                                                                                                                                                                                                                                                                                                                                                                   |______/                                                                                                                                                                                      
+|______/                                                                                                                                                                                      
+|______/
