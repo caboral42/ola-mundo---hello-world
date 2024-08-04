@@ -1,10 +1,4 @@
 # Ola Mundo, Hello World
  primeiro-repositorio-teste
 
-iae gaseador deve ser bom estar no curso apos gasear aula ne
-
- /\                                                                                                                                                                                           
-|-|                                                                                                                                                                                           
-|-|____                                                                                                                                                                                                                                                                                                                                                                                   |______/                                                                                                                                                                                      
-|______/                                                                                                                                                                                      
-|______/
+iae gaseador deve ser bom estar vivo e no curso apos gasear aula ne
