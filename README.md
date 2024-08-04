@@ -3,7 +3,7 @@
 
 iae gaseador deve ser bom estar no curso apos gasear aula ne
 
- /\
+ /\                                                                                                                                                                                           
 |  |
 |  |____
 |       /
